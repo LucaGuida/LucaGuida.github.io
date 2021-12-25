@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Luca Guida</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Nov 2020 11:48:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Research papers on blockchain smart contracts</title>
+		<link>/research-papers-related-to-blockchain-smart-contracts/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Sun, 07 Apr 2019 10:15:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=776</guid>
+
+					<description><![CDATA[Luca Guida and Florian Daniel, Supporting Reuse of Smart Contracts Through Service Orientation and Assisted Development, IEEE International Conference on Decentralized Applications and Infrastructures, San Francisco, USA, 2019. This paper focuses on two of the key challenges a developer encounters when reusing smart contracts: finding actionable information about existing smart contracts (descriptors) and writing the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Luca Guida and Florian Daniel, <a href="https://ieeexplore.ieee.org/document/8783053"><em>Supporting Reuse of Smart Contracts Through Service Orientation and Assisted Development</em></a>, IEEE International Conference on Decentralized Applications and Infrastructures, San Francisco, USA, 2019.</strong></p>
+<p>This paper focuses on two of the key challenges a developer encounters when reusing smart contracts: finding actionable information about existing smart contracts (descriptors) and writing the necessary integration logic to invoke selected contracts and implement missing functions. As for the former issue, the paper proposes a smart contract description format that allows the developer to search for publicly available contracts, understand which features a contract exposes and how to invoke them, according to a service-oriented approach. For the latter, the paper implements a simple, model-driven development environment consisting in a visual programming editor that provides a set of modeling constructs encoding specific, reuse-oriented code patterns. The approach is implemented and demonstrated in the context of the blockchain platform Ethereum and its programming language Solidity. The results obtained show that the proposed approach can be beneficial in the development of composite smart contracts and generic blockchain applications.</p>
+<p>&nbsp;</p>
+<p><strong>Florian&nbsp;Daniel and Luca Guida, <em><a href="https://ieeexplore.ieee.org/document/8598947" target="_blank" rel="noopener noreferrer">A Service-Oriented Perspective on Blockchain Smart Contracts</a></em>, IEEE Internet Computing, vol. 23, no. 1, pp. 46-53, 2019.</strong></p>
+<p><a href="https://www.computer.org/csdl/magazine/ic/2019/01/08598947/17D45VsBU1m"><img loading="lazy" class=" wp-image-771 alignright" src="/wp-content/uploads/2018/10/3D-300x225.png" alt="" width="352" height="264" srcset="/wp-content/uploads/2018/10/3D-300x225.png 300w, /wp-content/uploads/2018/10/3D-768x576.png 768w, /wp-content/uploads/2018/10/3D-1024x768.png 1024w" sizes="(max-width: 352px) 100vw, 352px" /></a></p>
+<p>Smart contracts turn blockchains into distributed computing platforms. This paper studies whether smart contracts as implemented by a state-of-the-art blockchain technology may serve as a component technology for a computing paradigm like service-oriented computing in the blockchain, in order to foster reuse and increase cost-effectiveness.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MSc thesis “A Service-oriented, Visual Programming Approach for the Development of Blockchain Smart Contracts”</title>
+		<link>/msc-thesis-a-service-oriented-visual-programming-approach-for-the-development-of-blockchain-smart-contracts/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Tue, 01 Jan 2019 14:07:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=687</guid>
+
+					<description><![CDATA[The thesis investigates whether smart contracts as implemented by state-of-the-art blockchain technology can be exploited as building blocks of a new service-oriented, trustworthy computing paradigm. Moreover, it proposes a methodology and a tool to support the development of smart contracts, their description, and their composition, in order to foster the reuse of widely tested contracts [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft wp-image-731" src="/wp-content/uploads/2018/10/Left-238x300.png" alt="" width="300" height="378" srcset="/wp-content/uploads/2018/10/Left-238x300.png 238w, /wp-content/uploads/2018/10/Left.png 689w" sizes="(max-width: 300px) 100vw, 300px" />The thesis investigates whether smart contracts as implemented by state-of-the-art blockchain technology can be exploited as building blocks of a new service-oriented, trustworthy computing paradigm. Moreover, it proposes a methodology and a tool to support the development of smart contracts, their description, and their composition, in order to foster the reuse of widely tested contracts and libraries, thus improving the overall compliance with security and programming best practices and increasing cost-effectiveness. More specifically, this research proposes a formal description format and a registry prototype for Ethereum smart contracts, thus facilitating their discovery and reuse. Furthermore, it introduces a block-based visual programming editor prototype for Ethereum smart contracts, thus addressing the lack of tools supporting the development process. Both the prototypes have been tested and assessed through the development of a case study in the insurance field.</p>
+<p>&nbsp;</p>
+<p><strong>Related publications</strong>:</p>
+<ul>
+<li>Luca Guida and Florian Daniel, <a href="https://ieeexplore.ieee.org/document/8783053"><em>Supporting Reuse of Smart Contracts Through Service Orientation and Assisted Development</em></a>, IEEE International Conference on Decentralized Applications and Infrastructures, San Francisco, USA, 2019.</li>
+<li>Florian&nbsp;Daniel and Luca Guida, <em><a href="https://ieeexplore.ieee.org/document/8598947" target="_blank" rel="noopener noreferrer">A Service-Oriented Perspective on Blockchain Smart Contracts</a></em>, IEEE Internet Computing, vol. 23, no. 1, pp. 46-53, 2019.<br />
+<img loading="lazy" class="alignleft size-medium wp-image-771" src="/wp-content/uploads/2018/10/3D-300x225.png" alt="" width="300" height="225" srcset="/wp-content/uploads/2018/10/3D-300x225.png 300w, /wp-content/uploads/2018/10/3D-768x576.png 768w, /wp-content/uploads/2018/10/3D-1024x768.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Alexa Developer Preview Italy&#8221; program</title>
+		<link>/alexa-developer-preview-italy-program/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2018 16:51:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=742</guid>
+
+					<description><![CDATA[Selected as one of the participants of a preview program that gave Italian Alexa Skills developers the opportunity to test an Amazon Echo device before it was released to the Italian market. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Selected as one of the participants of a preview program that gave Italian Alexa Skills developers the opportunity to test an Amazon Echo device before it was released to the Italian market.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Seeds for the Future Italy 2018 @ Huawei Technologies</title>
+		<link>/seeds-for-the-future-italy-2018-huawei-technologies/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Wed, 02 May 2018 10:53:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=639</guid>
+
+					<description><![CDATA[Seeds for the Future Italy 2018: 2-week study trip to China for 10 Master students selected from top Italian ICT universities. Participants gained first-hand work experience and insights into the work of a multinational ICT company at Huawei&#8217;s global headquarters in Shenzhen as well as training on wireless and core network technologies, 5G solutions, Cloud [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="CVNormal"><b><i><span lang="EN-US">Seeds for the Future Italy 2018</span></i></b><i><span lang="EN-US">: </span></i><span lang="EN-US">2-week study trip to China for 10 Master students selected from top Italian ICT universities. Participants gained first-hand work experience and insights into the work of a multinational ICT company at Huawei&#8217;s global headquarters in Shenzhen as well as training on wireless and core network technologies, 5G solutions, Cloud Computing and the Internet of Things.<i></i></span></p>
+<p class="CVNormal"><b><i><span lang="EN-US">Chinese Language &amp; Culture for beginners</span></i></b><i><span lang="EN-US">: </span></i><span lang="EN-US">Beginner Mandarin Chinese course (pronunciation and pinyin romanization system, elementary vocabulary, basic sentence patterns), Chinese calligraphy and painting at the Beijing Language and Culture University.<i></i></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Future Makers 2018 @ The Boston Consulting Group</title>
+		<link>/the-future-makers-2018-the-boston-consulting-group/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Thu, 03 May 2018 10:50:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=636</guid>
+
+					<description><![CDATA[The Future Makers 2018: selected out of almost 2000 talented candidates from top universities in Europe as one of the 100 participants of a 4-day program organized by The Boston Consulting Group (BCG) that gives participants the opportunity to reflect about macrotrends such as digital transformation and social impact by interacting with some of the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p class="CVNormal"><b><i><span lang="EN-US">The Future Makers 2018</span></i></b><span lang="EN-US">: selected out of almost 2000 talented candidates from top universities in Europe as one of the 100 participants of a 4-day program organized by The Boston Consulting Group (BCG) that gives participants the opportunity to reflect about macrotrends such as digital transformation and social impact by interacting with some of the most influential representatives of the business community.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Earth Observations and the Digital Humanitarian (EODH) project</title>
+		<link>/earth-observations-and-the-digital-humanitarian-eodh-project/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Tue, 01 May 2018 10:45:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=630</guid>
+
+					<description><![CDATA[&#8211; Team leader, developer and budget controller in Earth Observations and the Digital Humanitarian (EODH) project in partnership with the European Space Agency and Humanitarian Openstreetmap Team: development of an integrated software pipeline for the semi-automated assessment of damages to buildings and other physical infrastructure in post-disaster scenarios using Synthetic Aperture Radar satellite imagery. &#8211; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Team leader, developer and budget controller in <strong><em>Earth Observations and the Digital Humanitarian</em></strong> (EODH) project in partnership with the European Space Agency and Humanitarian Openstreetmap Team: development of an integrated software pipeline for the semi-automated assessment of damages to buildings and other physical infrastructure in post-disaster scenarios using Synthetic Aperture Radar satellite imagery.</p>
+<p><center><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/rc_Pq07bm0I?rel=0&amp;showinfo=0" width="750" height="422" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center></p>
+<p><a href="https://doi.org/10.5194/isprs-archives-XLII-3-431-2018"><img loading="lazy" class="alignleft wp-image-650" src="/wp-content/uploads/2018/05/paperISPRS-210x300.png" alt="" width="300" height="429" srcset="/wp-content/uploads/2018/05/paperISPRS-210x300.png 210w, /wp-content/uploads/2018/05/paperISPRS-768x1099.png 768w, /wp-content/uploads/2018/05/paperISPRS-715x1024.png 715w, /wp-content/uploads/2018/05/paperISPRS.png 918w" sizes="(max-width: 300px) 100vw, 300px" /></a>&#8211; Corresponding author of the paper publishing the results of the project: Guida, L. et al., 2018. <em>Post-disaster damage assessment through Coherent Change Detection on SAR imagery.</em> In: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-3, 431-436, <a href="https://doi.org/10.5194/isprs-archives-XLII-3-431-2018">https://doi.org/10.5194/isprs-archives-XLII-3-431-2018</a></p>
+<p>Further info about the project: <a href="https://www.asp-poli.it/projects/year/2017/eodh-earth-observation-and-the-digital-humanitarians/" target="_blank" rel="noopener noreferrer">EODH: Earth Observation and the Digital Humanitarians</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Big Data Analysis project</title>
+		<link>/big-data-analysis-project/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Sun, 04 Feb 2018 17:09:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://lucaguida.hostinggratis.it/?p=553</guid>
+
+					<description><![CDATA[Scrum Master and Developer in Big Data Analysis project: design, implementation and economic feasibility assessment of a big data analysis platform that rewards users for sharing their location and preferences, while providing restaurant owners with accurate insights about their potential customers. The project was developed in the context of four different courses, integrating technical and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Scrum Master and Developer in Big Data Analysis project</em>: design, implementation and economic feasibility assessment of a big data analysis platform that rewards users for sharing their location and preferences, while providing restaurant owners with accurate insights about their potential customers. The project was developed in the context of four different courses, integrating technical and business skills and using Agile software development approaches (Scrum, Kanban). The following technologies were used: MongoDB, Kafka, Spark, Spark Streaming, Hbase, Elasticsearch, AngularJS, Ionic, NodeJS with Express and Mongoose.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Virtual Reality and AI in video games project</title>
+		<link>/virtual-reality-and-ai-in-video-games-project/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Sun, 04 Feb 2018 17:09:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://lucaguida.hostinggratis.it/?p=555</guid>
+
+					<description><![CDATA[Team Leader and Developer in Virtual Reality and AI in video games project: design and implementation of a video game to be deployed on a VR headset (Oculus Rift). Simple AI techniques such as n-grams were used for achieving dynamic and believable behavior in non-player-characters through next-move prediction and learning.]]></description>
+										<content:encoded><![CDATA[<p><em>Team Leader and Developer in Virtual Reality and AI in video games project</em>: design and implementation of a video game to be deployed on a VR headset (Oculus Rift). Simple AI techniques such as n-grams were used for achieving dynamic and believable behavior in non-player-characters through next-move prediction and learning.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Software Engineering 2 project: PowerEnJoy</title>
+		<link>/software-engineering-2-project/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2018 17:02:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=664</guid>
+
+					<description><![CDATA[Team leader and developer in Software Engineering 2 project: design of a management system for an electric car sharing service: Requirements Analysis and Specification (scenarios, use cases, requirements identification, formal specification with UML and Alloy), System Design (architecture, algorithms, UI and UX), Integration Test Plan, Project Management Plan (Function Points and COCOMO II estimations, project [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Team leader and developer in <em><strong>Software Engineering 2 project</strong></em>: design of a management system for an electric car sharing service: Requirements Analysis and Specification (scenarios, use cases, requirements identification, formal specification with UML and Alloy), System Design (architecture, algorithms, UI and UX), Integration Test Plan, Project Management Plan (Function Points and COCOMO II estimations, project schedule and task allocation, risk analysis).</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignleft wp-image-707" src="/wp-content/uploads/2018/09/Available-cars-search-169x300.png" alt="" width="281" height="500" srcset="/wp-content/uploads/2018/09/Available-cars-search-169x300.png 169w, /wp-content/uploads/2018/09/Available-cars-search-576x1024.png 576w, /wp-content/uploads/2018/09/Available-cars-search.png 750w" sizes="(max-width: 281px) 100vw, 281px" /> <img loading="lazy" class="alignright wp-image-708" src="/wp-content/uploads/2018/09/Vehicle-details-169x300.png" alt="" width="281" height="500" srcset="/wp-content/uploads/2018/09/Vehicle-details-169x300.png 169w, /wp-content/uploads/2018/09/Vehicle-details-576x1024.png 576w, /wp-content/uploads/2018/09/Vehicle-details.png 750w" sizes="(max-width: 281px) 100vw, 281px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignright wp-image-712" src="/wp-content/uploads/2018/09/Profile-169x300.png" alt="" width="281" height="500" srcset="/wp-content/uploads/2018/09/Profile-169x300.png 169w, /wp-content/uploads/2018/09/Profile-576x1024.png 576w, /wp-content/uploads/2018/09/Profile.png 750w" sizes="(max-width: 281px) 100vw, 281px" /></p>
+<p><img loading="lazy" class="alignleft wp-image-711" src="/wp-content/uploads/2018/09/Create-new-account-169x300.png" alt="" width="281" height="500" srcset="/wp-content/uploads/2018/09/Create-new-account-169x300.png 169w, /wp-content/uploads/2018/09/Create-new-account-576x1024.png 576w, /wp-content/uploads/2018/09/Create-new-account.png 750w" sizes="(max-width: 281px) 100vw, 281px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PoliAule</title>
+		<link>/poliaule/</link>
+		
+		<dc:creator><![CDATA[LG]]></dc:creator>
+		<pubDate>Sun, 04 Feb 2018 17:10:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://lucaguida.hostinggratis.it/?p=561</guid>
+
+					<description><![CDATA[Webapp designed to help university students find classrooms on campus, now merged in Politecnico di Milano official mobile website (2014) &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>Webapp designed to help university students find classrooms on campus, now merged in Politecnico di Milano official mobile website (2014)</p>
+<p><img loading="lazy" class="alignleft wp-image-699" src="/wp-content/uploads/2018/02/screenshot3.png" alt="" width="307" height="500" srcset="/wp-content/uploads/2018/02/screenshot3.png 561w, /wp-content/uploads/2018/02/screenshot3-184x300.png 184w" sizes="(max-width: 307px) 100vw, 307px" /><img loading="lazy" class="wp-image-700 alignright" src="/wp-content/uploads/2018/02/screenshot2-181x300.png" alt="" width="302" height="500" srcset="/wp-content/uploads/2018/02/screenshot2-181x300.png 181w, /wp-content/uploads/2018/02/screenshot2.png 559w" sizes="(max-width: 302px) 100vw, 302px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
